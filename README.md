@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,py)](https://skillicons.dev)
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=manassespaterline&column=-1&theme=chalk&margin-w=15&no-frame=true)](https://github.com/manassespaterline/github-profile-trophy)
