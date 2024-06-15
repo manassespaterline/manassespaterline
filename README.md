@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=manassespaterline&column=-1&theme=chalk&margin-w=15&no-frame=true)](https://github.com/manassespaterline/github-profile-trophy)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=manassespaterline)](https://github.com/manassespaterline/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=manassespaterline&theme=nightowl)](https://github.com/manassespaterline/github-readme-stats)
