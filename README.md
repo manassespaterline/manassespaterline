@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=manassespaterline&column=-1&theme=chalk)](https://github.com/manassespaterline/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=manassespaterline&column=-1&theme=chalk&margin-w=15)](https://github.com/manassespaterline/github-profile-trophy)
