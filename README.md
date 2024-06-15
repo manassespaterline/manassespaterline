@@ -17,4 +17,10 @@ Here are some ideas to get you started:
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,c,py)](https://skillicons.dev)
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=manassespaterline&column=-1&theme=chalk&margin-w=15&no-frame=true)](https://github.com/manassespaterline/github-profile-trophy)
